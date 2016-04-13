@@ -1,1 +1,32 @@
-/* Inserta tu codigo CSS aqui */
+
+ /*! Textos de página falta ordenar !*/
+ul li{
+display: inline-block;
+
+}
+
+#menu{
+background-color: #FD7253 ;
+}
+.naranjo{
+	background-color:  #F4613B;
+	color: white;
+	text-align: center;
+}
+#ico {
+	font-size: 300%;
+	color: #F4613B;
+}
+.blanco{
+	text-align: center;
+}
+.linea1{
+	text-align: center;
+	width: 5%;
+	color: black;
+}
+.linea2{
+	text-align: center;
+	width: 5%;
+}
+ /*! TERMINO DE AVANCE!*/
